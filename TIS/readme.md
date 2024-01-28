@@ -70,7 +70,7 @@ I'm currently majoring in Bachelor Of Computer Science (Network and Computer Sec
 <br/>  
 
 ## Projects
-- Design Thinking Project
+- Design Thinking Project (Electric Stove Controller)
 <br/>
 
 <div align="left">
