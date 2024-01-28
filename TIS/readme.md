@@ -69,11 +69,6 @@ I'm currently majoring in Bachelor Of Computer Science (Network and Computer Sec
 
 <br/>  
 
-## Certificate
-- 
-
-<br/>  
-
 <div align="left">
 <img src="https://komarev.com/ghpvc/?username=Kerol04&&style=flat-square" align="center" />
 </div>  
