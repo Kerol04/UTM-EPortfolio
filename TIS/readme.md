@@ -15,7 +15,9 @@
 - Origin: Ajil, Terengganu  
   
 
-- You guys can reach me at **hakimi04@graduate.utm.my**  
+- You guys can reach me at **hakimi04@graduate.utm.my**
+
+<br/> 
 
 ## Summary
 Hi again! As you can see my full name is Muhammad Khairul Hakimi bin Mohd Khalid and you guys can call me Khairul or Kerol would be better I guest since I'm from Terengganu 😂. My hobbies are to watch movies and dramas and I also like to play badminton. I started to get interested in computer science field in my foundation study and I actually more keen in physical things like mechanic's things in my high school era. However, it has been a great journey and I can't wait to explore more in the computer science field!  
@@ -23,63 +25,58 @@ Hi again! As you can see my full name is Muhammad Khairul Hakimi bin Mohd Khalid
 
 <br/>  
 
+## Education
+### Primary School
+- SK Bukit Perah
+- Head of Prefect (2016)
+
+### Secondary School
+- SM Imtiaz YT Kuala Berang
+- President of the Students' Representative Council (2021)
+
+### Foundation
+- Centre of Foundation Studies UiTM Dengkil
+- Treasurer of UiTM Dengkil's Badminton Club (2022/2023)
+
+<br/>
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-<div align="center">  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </p>
 <br/>  
 
 
 ## Connect with me  
-<div align="center">
-<a href="https://github.com/Kerol04" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/khairhakimmm" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/Muhammad Khairul Hakimi" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/khair.hakim" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+<p align="left">
+<a href="https://twitter.com/khairhakimmm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khairhakimmm" height="30" width="40" /></a>
+<a href="https://instagram.com/khair.hakim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khair.hakim" height="30" width="40" /></a>
+</p>
 
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Kerol04&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## Courses 
+I'm currently majoring in Bachelor Of Computer Science (Network and Computer Security) With Honour. I'm a first year student and I study these courses in my first semester:
+- Discrete Structure
+- Programming Technique I
+- Technology and Information System
+- Digital Logic
+- Integrity and Anti-corruption Course
 
 <br/>  
 
+## Certificate
+- 
 
+<br/>  
 
 <div align="left">
 <img src="https://komarev.com/ghpvc/?username=Kerol04&&style=flat-square" align="center" />
 </div>  
-  
-
-<br/>  
-
 
 <br />
 
